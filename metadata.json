@@ -1,0 +1,6 @@
+{
+  "name": "Modern Dental Clinic",
+  "description": "A premium, modern dental clinic website featuring interactive treatments, animated stats, booking forms, and luxurious medical design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
